@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "Bound_by_blood_SMP.aternos.me",
+    "port": 43114,
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
